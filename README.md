@@ -9,14 +9,12 @@ https://user-registration-nodejs.herokuapp.com
 eg:-
 do a post request with this below object
 here username ,phoneNumber and password must be unique and password's length must be at least 6
-\
-
 {
   "username":"ankit1234",
   "password":"123456",
   "phoneNumber":9123456789,
   "name":"Ankit kumar"
-}\
+}
 
 ### route for updating the credentials for  an user(put method)
 -->  https://user-registration-nodejs.herokuapp.com/api/user/username
@@ -32,7 +30,7 @@ here ankitar is one of the username
 
 eg:-\
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar
-\
+
 
 here ankitar is one of the username
 
