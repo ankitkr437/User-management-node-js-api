@@ -7,7 +7,7 @@ https://user-registration-nodejs.herokuapp.com
 --> https://user-registration-nodejs.herokuapp.com/api/user
 
 eg:-
-here username ,phoneNumber and password must be unique and password's length must be at least 6/
+here username ,phoneNumber and password must be unique and password's length must be at least 6--
 {
   "username":"ankit1234",
   "password":"123456",
