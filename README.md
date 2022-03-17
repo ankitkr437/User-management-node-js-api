@@ -15,10 +15,11 @@ here username ,phoneNumber and password must be unique and password's length mus
   "password":"123456",
   "phoneNumber":9123456789,
   "name":"Ankit kumar"
-}--
+}\
 
 ### route for updating the credentials for  an user(put method)
 -->  https://user-registration-nodejs.herokuapp.com/api/user/username
+\
 eg:-\
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar--
 
@@ -27,8 +28,10 @@ here ankitar is one of the username
 
 ### route for deleting an user(delete method)--
 -->  https://user-registration-nodejs.herokuapp.com/api/user/username
+\
 eg:-\
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar
+\
 
 here ankitar is one of the username
 
