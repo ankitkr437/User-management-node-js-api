@@ -4,7 +4,7 @@ this is a user managment api build using  node js
 https://user-registration-nodejs.herokuapp.com
 
 ### route for registering an user(post method)
--->https://user-registration-nodejs.herokuapp.com/api/user
+-->  https://user-registration-nodejs.herokuapp.com/api/user
 
 eg:-
 do a post request with this below object
@@ -18,7 +18,7 @@ do a post request with this below object
 
 
 ### route for updating the credentials for  an user(put method)
--->https://user-registration-nodejs.herokuapp.com/api/user/username
+-->  https://user-registration-nodejs.herokuapp.com/api/user/username
 eg:-
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar
 
@@ -26,17 +26,15 @@ https://user-registration-nodejs.herokuapp.com/api/user/ankitar
 
 
 ### route for deleting an user(delete method)
--->https://user-registration-nodejs.herokuapp.com/api/user/username
+-->  https://user-registration-nodejs.herokuapp.com/api/user/username
 eg:-
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar
 
 --here ankitar is one of the username
 
 
- 
-
 ### route for getting the data of  an user(get method)
--->https://user-registration-nodejs.herokuapp.com/api/user/ankitar
+-->  https://user-registration-nodejs.herokuapp.com/api/user/ankitar
 
 eg:-
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar
