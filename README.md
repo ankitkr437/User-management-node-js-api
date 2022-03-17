@@ -6,7 +6,7 @@ https://user-registration-nodejs.herokuapp.com
 ### route for registering an user(post method)
 -->  https://user-registration-nodejs.herokuapp.com/api/user
 
-eg:---
+eg:-
 do a post request with this below object
 here username ,phoneNumber and password must be unique and password's length must be at least 6--
 
@@ -18,17 +18,17 @@ here username ,phoneNumber and password must be unique and password's length mus
 }--
 
 ### route for updating the credentials for  an user(put method)
--->  https://user-registration-nodejs.herokuapp.com/api/user/username  --
-eg:- --
+-->  https://user-registration-nodejs.herokuapp.com/api/user/username
+eg:-\
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar--
 
 here ankitar is one of the username
 
 
 ### route for deleting an user(delete method)--
--->  https://user-registration-nodejs.herokuapp.com/api/user/username--
-eg:-
-https://user-registration-nodejs.herokuapp.com/api/user/ankitar--
+-->  https://user-registration-nodejs.herokuapp.com/api/user/username
+eg:-\
+https://user-registration-nodejs.herokuapp.com/api/user/ankitar
 
 here ankitar is one of the username
 
