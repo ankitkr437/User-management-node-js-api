@@ -39,7 +39,7 @@ here ankitar is one of the username
 
 
 ### route for getting the data of  an user(get method)--
--->  https://user-registration-nodejs.herokuapp.com/api/user/ankitar
+-->  https://user-registration-nodejs.herokuapp.com/api/user/username
 
 eg:-\
 https://user-registration-nodejs.herokuapp.com/api/user/ankitar
