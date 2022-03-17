@@ -28,7 +28,7 @@ https://user-registration-nodejs.herokuapp.com/api/user/ankitar
 here ankitar is one of the username
 
 
-### route for deleting an user(delete method)--
+### route for deleting an user(delete method)
 -->  https://user-registration-nodejs.herokuapp.com/api/user/username
 
 eg:-\
@@ -38,7 +38,7 @@ https://user-registration-nodejs.herokuapp.com/api/user/ankitar
 here ankitar is one of the username
 
 
-### route for getting the data of  an user(get method)--
+### route for getting the data of  an user(get method)
 -->  https://user-registration-nodejs.herokuapp.com/api/user/username
 
 eg:-\
