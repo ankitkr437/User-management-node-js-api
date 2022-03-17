@@ -3,11 +3,11 @@ this is a user managment api build using  node js
 ## Main rout
 https://user-registration-nodejs.herokuapp.com
 
-### route for registering an user(post method) 
+#### route for registering an user(post method) 
 --> https://user-registration-nodejs.herokuapp.com/api/user
 
 eg:-
-here username ,phoneNumber and password must be unique and password's length must be at least 6--
+here username ,phoneNumber and password must be unique and password's length must be at least 6 <space><space>
 {
   "username":"ankit1234",
   "password":"123456",
